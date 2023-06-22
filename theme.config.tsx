@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>The Tavern</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/YamaYAML/docs-rep/',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/rhFUfhCj58',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/YamaYAML/docs-rep/',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'The Tavern - Turtle World of Warcraft Guild Documentation',
   },
 }
 
